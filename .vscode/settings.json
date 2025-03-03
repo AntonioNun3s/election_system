@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.txt": "markdown",
+        "stdio.h": "c",
+        "string.h": "c",
+        "create_candidate.h": "c"
+    }
+}
